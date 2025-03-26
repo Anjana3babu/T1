@@ -1,0 +1,68 @@
+.contact{
+    gap: 40px;
+    margin: 4rem 5vw;
+    padding: 5rem 0rem;
+    background-color: #536b5d;
+    border-radius: 10px;
+
+}
+
+.contactcard{
+    justify-content: space-between;
+    padding: 1rem 1rem;
+    width: 13rem;
+    height: 17rem;
+    background-color: #536b5d;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+.scaled{
+    height: 18rem;
+    width: 14rem;
+    background-color:white;
+    color: #536b5d;
+}
+.telegram{
+    width: 14rem;
+    background-color: red;
+    border-radius: 8px;
+}
+.contactcards{
+    color:white;
+    gap: 20px;
+    text-align: center;
+}
+.telegram2{
+    gap: 5px;
+}
+.telegram2 h1{
+    font-size: 1.2rem;
+}
+.telegram3{
+    gap: 50px;
+    font-size: 0.6rem;
+}
+
+.card p{
+font-size: 0.8rem;
+}
+
+.learn1{
+    width: 8rem;
+    height: 2.5rem;
+    background-color: #637f6e;
+    border: none; 
+    color: white; 
+    border-radius: 5px;
+    font-family:Montserrat;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+@media(max-width:900px){
+    .contactcards{
+        display: flex;
+        flex-direction: column;
+        gap:30px;
+    }
+}
