@@ -2,7 +2,7 @@
   "name": "task",
   "private": true,
   "version": "0.0.0",
-  "homepage":"https://github.com/Anjana3babu/T1.git",
+  "homepage": "https://Anjana3babu.github.io/T1",
   "type": "module",
   "scripts": {
     "dev": "vite",
